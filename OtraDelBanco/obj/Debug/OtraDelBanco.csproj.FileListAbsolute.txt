@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\bin\Debug\OtraDelBanco.exe.config
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\bin\Debug\OtraDelBanco.exe
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\bin\Debug\OtraDelBanco.pdb
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.Form1.resources
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.Properties.Resources.resources
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.exe
+C:\Users\Usuario\source\repos\OtraDelBanco\OtraDelBanco\obj\Debug\OtraDelBanco.pdb
